@@ -1,0 +1,10 @@
+C:\Users\Thomas\Desktop\GenshinBalladsOfBreezeAider-main\GenshinBalladsOfBreezeAider\obj\Debug\GenshinBalladsOfBreezeAider.csproj.AssemblyReference.cache
+C:\Users\Thomas\Desktop\GenshinBalladsOfBreezeAider-main\GenshinBalladsOfBreezeAider\obj\Debug\GenshinBalladsOfBreezeAider.frmMain.resources
+C:\Users\Thomas\Desktop\GenshinBalladsOfBreezeAider-main\GenshinBalladsOfBreezeAider\obj\Debug\GenshinBalladsOfBreezeAider.csproj.GenerateResource.cache
+C:\Users\Thomas\Desktop\GenshinBalladsOfBreezeAider-main\GenshinBalladsOfBreezeAider\obj\Debug\GenshinBalladsOfBreezeAider.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\GenshinBalladsOfBreezeAider-main\GenshinBalladsOfBreezeAider\bin\Debug\原神音游辅助器.exe.config
+C:\Users\Thomas\Desktop\GenshinBalladsOfBreezeAider-main\GenshinBalladsOfBreezeAider\bin\Debug\原神音游辅助器.exe
+C:\Users\Thomas\Desktop\GenshinBalladsOfBreezeAider-main\GenshinBalladsOfBreezeAider\bin\Debug\原神音游辅助器.pdb
+C:\Users\Thomas\Desktop\GenshinBalladsOfBreezeAider-main\GenshinBalladsOfBreezeAider\obj\Debug\原神音游辅助器.Properties.Resources.resources
+C:\Users\Thomas\Desktop\GenshinBalladsOfBreezeAider-main\GenshinBalladsOfBreezeAider\obj\Debug\原神音游辅助器.exe
+C:\Users\Thomas\Desktop\GenshinBalladsOfBreezeAider-main\GenshinBalladsOfBreezeAider\obj\Debug\原神音游辅助器.pdb
